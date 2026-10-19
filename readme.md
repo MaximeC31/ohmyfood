@@ -1,6 +1,6 @@
 # Ohmyfood
 
-Site web de réservation de restaurants, entièrement codé from scratch en HTML/CSS.
+Site de présentation de restaurants et de leurs menus, avec une interface responsive et des animations CSS.
 
 ## Comment le démarrer
 
