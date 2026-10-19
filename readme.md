@@ -1,4 +1,4 @@
-# OhMyFood
+# Ohmyfood
 
 Site web de réservation de restaurants, entièrement codé from scratch en HTML/CSS.
 
